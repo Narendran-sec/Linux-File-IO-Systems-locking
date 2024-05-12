@@ -19,8 +19,8 @@ Execute the C Program for the desired output.
 
 # PROGRAM:
 
-Developed By : Thilakeswaran KP
-Register No : 212223230232
+Developed By : Narendran K
+Register No : 212223230135
 
 
 ## 1.To Write a C program that illustrates files copying
